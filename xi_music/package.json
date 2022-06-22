@@ -16,7 +16,7 @@
     "googleapis": "*",
     "node-opus": "^0.3.3",
     "prism-media": "github:hydrabolt/prism-media",
-    "sqlite3": "^5.0.0",
+    "sqlite3": "^5.0.3",
     "ytdl-core": "^3.0.0"
   }
 }
